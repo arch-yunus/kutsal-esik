@@ -1,0 +1,38 @@
+name: CI - Test & Bütünlük Doğrulama
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+
+    steps:
+      - name: Kodu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu (${{ matrix.python-version }})
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Birim Testleri ve Veri Doğrulamasını Çalıştır
+        run: |
+          python -m unittest discover -s tests
+
+      - name: CLI Komutlarını Doğrula
+        run: |
+          python -m kutsal_esik stats
+          python -m kutsal_esik quote
+          python -m kutsal_esik search "Xenia"
+          python -m kutsal_esik bib --export
+
+      - name: Web Veri Derleyicisini Test Et
+        run: |
+          python scripts/build_web_data.py

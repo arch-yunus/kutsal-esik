@@ -1,0 +1,80 @@
+[
+  {
+    "id": "t_akdeniz",
+    "name": "Akdeniz & Antik Dünya Geleneği",
+    "region": "Akdeniz Havzası (Yunan, Roma, Fenike)",
+    "symbols": ["Zeytin Dalı", "Xenion (Konuk Hediyesi)", "Tabula Hospitalis"],
+    "summary": "Deniz aşırı yolculukların tehlikelerine karşı yabancıyı tanrıların bir elçisi gibi ağırlama, tuz-ekmek paylaşımı ve nesiller boyu süren konukluk hukuku.",
+    "rituals": [
+      "Ayak yıkama ve kokulu yağ sürme seremonisi",
+      "Kurban eti ve şarabın ilk payını misafire sunma",
+      "Ayrılışta kırılan ve iki tarafça paylaşılan dostluk jetonu (tessera hospitalis)"
+    ],
+    "famous_saying": "Zeus misafirlerin ve sığınanların koruyucusudur."
+  },
+  {
+    "id": "t_uzak_dogu",
+    "name": "Uzak Doğu ve Asya İrfanı",
+    "region": "Çin, Japonya, Kore, Tibet",
+    "symbols": ["Çay Kasesi (Chawan)", "Nijiriguchi (Alçak Eşik)", "Bambu Çubuğu"],
+    "summary": "Egonun eritilmesi, misafirin varlığıyla mekâna gelen dinginlik ve 'Ichigo Ichie' (bir ömürde tek an) felsefesiyle her ağırlamanın kutsal bir sanata dönüşmesi.",
+    "rituals": [
+      "Çay seremonisinde samuray kılıçlarının dışarıda bırakılması",
+      "Omotenashi: Misafirin talebi oluşmadan ihtiyacının sezilmesi",
+      "Uzak yoldan gelen yolcuya ilk olarak sıcak kâse yeşil çay sunulması"
+    ],
+    "famous_saying": "Uzaklardan gelen bir yolcuyla aynı ocağı paylaşmak insan olmanın en saf neşesidir."
+  },
+  {
+    "id": "t_anadolu_mezopotamya",
+    "name": "Anadolu ve Mezopotamya Hoşgörüsü",
+    "region": "Anadolu, Levant, Mezopotamya",
+    "symbols": ["Halil İbrahim Sofrası", "Ahi Kuşağı", "Tuz-Ekmek (Nemrut / Hak)"],
+    "summary": "Kavimler kapısı olan Anadolu'da 'Tanrı Misafiri' inancı; kapıya gelenin dinini, soyunu sormadan başköşeye buyur etme ve bereket sayma geleneği.",
+    "rituals": [
+      "Misafir odasının (Konak/Köy Odası) her daim süpürülmüş ve hazır tutulması",
+      "Tuz-ekmek hakkı: Birlikte sofra paylaşanların bir daha asla düşman olamaması",
+      "Ahi zaviyelerinde yolcuların atlarının nallanması ve yol azığının verilmesi"
+    ],
+    "famous_saying": "Elini açık tut, sofranı açık tut, kapını açık tut."
+  },
+  {
+    "id": "t_bozkir_col",
+    "name": "Bozkır ve Çöl Sığınma Kültürü",
+    "region": "Orta Asya, Arap Yarımadası, Sahra",
+    "symbols": ["Yurt / Kıl Çadır Direği", "Kımız Çanağı", "Kakuleli Kahve (Mırra)"],
+    "summary": "Sert doğa koşullarında hayatta kalmanın garantisi olarak doğan 'dokunulmazlık' ve 'dehalet' ilkesi. Çadırın eşiğini aşan her canlının canı ev sahibinin namusudur.",
+    "rituals": [
+      "Üç gün sorgusuz ağırlama (soru sormak ayıp ve töreye aykırıdır)",
+      "Çadır direğine sarılan veya su içen sığınmacının mutlak himayesi",
+      "Uzaklaşan misafirin ardından su dökülmesi (yolu su gibi aksın diye)"
+    ],
+    "famous_saying": "Çölün ve bozkırın kanunu, insanın insana sığınmasından doğmuştur."
+  },
+  {
+    "id": "t_yerli_halklar",
+    "name": "Kuzey ve Güney Amerika Yerlileri",
+    "region": "Kuzeybatı Amerika, Amazon, And Dağları",
+    "symbols": ["Barış Çubuğu (Calumet)", "Wampum Kuşağı", "Potlaç Ziyafeti"],
+    "summary": "Toprağın ve doğanın ortak mülkiyet olduğu inancı. Zenginliğin sahip olmakta değil, dağıtmakta ve cömertlikte aranması.",
+    "rituals": [
+      "Potlaç: Kabile liderlerinin sahip olduğu tüm kürk ve malları konuklarına hediye etmesi",
+      "Barış çubuğunun yabancıyla beraber tüttürülerek ortak nefes alınması",
+      "Evin en sıcak kürkünün ve taze av etinin yabancıya ayrılması"
+    ],
+    "famous_saying": "Yeryüzü tek bir kabilenin değil, hepimizin ortak bahçesidir."
+  },
+  {
+    "id": "t_iskandinav_kelt",
+    "name": "İskandinav ve Kelt Geleneği",
+    "region": "İskandinavya, İrlanda, İskoçya, Galler",
+    "symbols": ["Ocak Ateşi (Hearth)", "Bal Likörü (Mead) Kadehi", "Brehon Kanunları"],
+    "summary": "Fırtınalı kuzey gecelerinde yabancıyı soğuktan koruma mecburiyeti. Odin'in kılık değiştirmiş gezgin olabileceği inancı ve yasal misafir koruma kanunları.",
+    "rituals": [
+      "Kapıya gelen yolcuya derhal ateş başında yer açma ve kuru giysi sunma",
+      "Ağırlamayı reddeden ev sahibinin şerefsiz ilan edilmesi (Brehon yasası)",
+      "Uzun masalarda hikaye anlatımı ve şarkılar eşliğinde mead kadehi tokuşturma"
+    ],
+    "famous_saying": "Soğuk dağlardan gelen yolcunun ateşe, kuru giysiye ve samimi söze ihtiyacı vardır."
+  }
+]

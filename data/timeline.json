@@ -1,0 +1,110 @@
+[
+  {
+    "year": "MÖ ~2100",
+    "period": "İlk Çağ",
+    "region": "Mezopotamya",
+    "title": "Sümer ve Babil Hukukunda Sığınma ve Misafir Güvencesi",
+    "description": "Ur-Nammu Kanunları ve Gılgamış Destanı'nda yabancı yolcuların tanrı Şamaş'ın gözetiminde olduğu, tapınak eşiklerine sığınan çaresizlerin can güvenliğinin korunduğu belgelenir.",
+    "concept": "Tapınak Sığınağı ve İlahi Gözetim",
+    "impact": "Tarihte ilk kez yazılı yasalarla yabancının korunması ilkesi kayda geçmiştir."
+  },
+  {
+    "year": "MÖ ~1200 - 800",
+    "period": "Antik Çağ",
+    "region": "Antik Yunanistan",
+    "title": "Xenia Geleneği ve Homeros Destanları",
+    "description": "Odysseia ve İlyada'da ev sahibi ile yolcu arasındaki Xenia (konukseverlik) yasası kurumsallaşır. Tanrı Zeus Xenios, misafire hürmet etmeyenleri cezalandırır.",
+    "concept": "Xenia (Ξενία)",
+    "impact": "Akdeniz havzasında korsanlık ve yabancı düşmanlığını dengeleyen evrensel bir ahlak kodu oluşmuştur."
+  },
+  {
+    "year": "MÖ ~6. Yüzyıl",
+    "period": "Antik Çağ",
+    "region": "Hindistan (Ganj Havzası)",
+    "title": "Vedik Metinler: 'Atithi Devo Bhava' İlkesi",
+    "description": "Taittiriya Upanişad'da misafirin (Atithi) Tanrı katında kabul edilmesi gerektiği kurala bağlanır. Kapıya gelen yolcuya sofra açmak mutlak ibadet sayılır.",
+    "concept": "Atithi Devo Bhava",
+    "impact": "Doğu felsefesinde konukseverlik metafizik bir erdem ve kozmik borç (Rina) haline gelmiştir."
+  },
+  {
+    "year": "MÖ ~500",
+    "period": "Antik Çağ",
+    "region": "Antik Çin",
+    "title": "Konfüçyüs ve 'Ren' (İnsan Sevgisi) Felsefesi",
+    "description": "Analektler'de Konfüçyüs, uzaktan gelen seyyahı sevinçle karşılamayı ve diğerkâmlığı (Ren) erdemli insanın (Junzi) temel niteliği olarak tanımlar.",
+    "concept": "Ren (仁) ve Sosyal Uyum",
+    "impact": "Uzak Doğu'da devlet yönetiminden aile ocağına kadar yabancıya saygı ortak norm olmuştur."
+  },
+  {
+    "year": "MÖ ~1. Yüzyıl",
+    "period": "Klasik Antikite",
+    "region": "Antik Roma",
+    "title": "Hospitium Sözleşmesi ve Cicero'nun Etik Öğretisi",
+    "description": "Roma hukukunda Hospitium kurumuyla iki yabancı soy arasında nesiller boyu süren barış, himaye ve hukuki temsil antlaşması tesis edilir.",
+    "concept": "Hospitium & Tabula Hospitalis",
+    "impact": "Kabilecilik aşılarak Roma yurttaşlık ve hukuk dokusuna yabancılar entegre edilmiştir."
+  },
+  {
+    "year": "MS 1. Yüzyıl",
+    "period": "İlk Çağ Sonu",
+    "region": "Doğu Akdeniz & Levant",
+    "title": "Erken Hristiyanlıkta 'Philoxenia' Devrimi",
+    "description": "Yeni Ahit metinlerinde ksenofobiye karşı 'philoxenia' (yabancı sevgisi) emredilir; manastırlar ilk 'Xenodochium' (yabancı konukevleri/hastaneler) ağını kurar.",
+    "concept": "Philoxenia & Xenodochium",
+    "impact": "Avrupa ve Akdeniz'de kurumsal hastane ve aşevi sistemlerinin tohumları atılmıştır."
+  },
+  {
+    "year": "MS 7. - 14. Yüzyıl",
+    "period": "İslam Altın Çağı",
+    "region": "Orta Doğu & Mağrip",
+    "title": "Diyafah, Tanrı Misafiri ve İbn Haldun'un Mukaddime'si",
+    "description": "İslam ahlakında 'üç gün sorgusuz ağırlama' kuralı konur. İbn Haldun, çöl ve göçebe koşullarında misafirperverliğin hayatta kalma ve asabiyet bağlamını çözümler.",
+    "concept": "Diyafah & Çöl Hukuku",
+    "impact": "İpek Yolu boyunca kervansaraylar inşa edilmiş, seyyahların can ve mal güvenliği vakıf güvencesine alınmıştır."
+  },
+  {
+    "year": "MS 13. Yüzyıl",
+    "period": "Orta Çağ",
+    "region": "Anadolu",
+    "title": "Anadolu İrfanı: Ahilik, Yunus Emre, Mevlana ve Hacı Bektaş",
+    "description": "Ahi zaviyeleri şehirlerin girişinde yabancıları günlerce ağırlar. Yunus Emre 'Yetmiş iki millete bir gözle bakmak' ilkesini, Mevlana 'Ne olursan ol yine gel' çağrısını yayar.",
+    "concept": "Halil İbrahim Sofrası & Ahi Zaviyeleri",
+    "impact": "Anadolu'da farklı din ve dillerden yolcuların barış içinde karşılandığı eşsiz bir hoşgörü kültürü kökleşmiştir."
+  },
+  {
+    "year": "1795",
+    "period": "Aydınlanma Çağı",
+    "region": "Avrupa (Almanya)",
+    "title": "Immanuel Kant: Evrensel Misafirlik Hakkı (Hospitalität)",
+    "description": "Kant, 'Zum ewigen Frieden' (Ebedi Barış) metninde misafirperverliği ahlaki bir lütuf değil, küresel hukuk düzeyinde bir 'dünya vatandaşlığı hakkı' olarak ilan eder.",
+    "concept": "Weltbürgerrecht (Dünya Yurttaşlığı)",
+    "impact": "Modern uluslararası mülteci hukukunun ve Cenevre Sözleşmesi'nin felsefi temeli atılmıştır."
+  },
+  {
+    "year": "1925",
+    "period": "Modern Dönem",
+    "region": "Fransa / Küresel Antropoloji",
+    "title": "Marcel Mauss ve 'Hediye' Antropolojisi",
+    "description": "Mauss 'Essai sur le don' eserinde arkaik toplumlardaki armağan ekonomisini, Potlaç ve Kula geleneklerini inceler; cömertliğin toplumsal barışı nasıl kurduğunu kanıtlar.",
+    "concept": "Karşılıklılık ve Armağan Teorisi",
+    "impact": "Modern iktisadın salt 'bencil rasyonel birey' varsayımı antropolojik olarak çürütülmüştür."
+  },
+  {
+    "year": "1961 - 1997",
+    "period": "20. Yüzyıl Sonu",
+    "region": "Kıta Avrupası",
+    "title": "Levinas ve Derrida: 'Öteki' ve Koşulsuz Konukseverlik",
+    "description": "Levinas etiğin temelini 'Öteki'nin Yüzü'nde bulur; Derrida ise 'Of Hospitality' seminerlerinde koşulsuz konukseverliğin sınırlarını ve 'hostipitality' ikilemini tartışır.",
+    "concept": "Koşulsuz Konukseverlik & Hostipitality",
+    "impact": "Postmodern çağda yabancı düşmanlığı, mülteci krizi ve sınır politikalarına karşı en güçlü etik felsefe gelişmiştir."
+  },
+  {
+    "year": "21. Yüzyıl",
+    "period": "Dijital Çağ",
+    "region": "Küresel / Dijital Dünya",
+    "title": "Açık Kaynak, Dijital Müşterekler ve 'Kutsal Eşik'",
+    "description": "Fiziksel eşikler siber alana taşınır. Açık kaynak kod, açık bilim, Vikipedi ve Creative Commons; bilginin yabancılarla karşılıksız paylaşılmasını modern bir konukseverliğe dönüştürür.",
+    "concept": "Dijital Konukseverlik ve Ortak Müşterekler",
+    "impact": "Eşikler duvar olmaktan çıkarılıp küresel bir işbirliği ve erdem platformuna evrilmektedir."
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "bib_derrida_2000",
+    "author": "Derrida, Jacques & Dufourmantelle, Anne",
+    "year": 2000,
+    "title": "Of Hospitality",
+    "original_title": "De l'hospitalité (1997)",
+    "publisher": "Stanford University Press",
+    "isbn": "978-0804734066",
+    "category": "Felsefe & Etik",
+    "summary": "Koşulsuz konukseverlik ile koşullu yasalar arasındaki aporia'yı (çıkmazı) ve 'hostipitality' kavramını inceleyen çığır açıcı eser.",
+    "tags": ["Koşulsuz Konukseverlik", "Hostipitality", "Dekonstrüksiyon", "Sınırlar"]
+  },
+  {
+    "id": "bib_levinas_1961",
+    "author": "Levinas, Emmanuel",
+    "year": 1961,
+    "title": "Totality and Infinity: An Essay on Exteriority",
+    "original_title": "Totalité et Infini: essai sur l'extériorité",
+    "publisher": "Duquesne University Press",
+    "isbn": "978-0820702452",
+    "category": "Fenomenoloji & Etik",
+    "summary": "Öteki'nin yüzünün benlik üzerindeki etik önceliğini ve konukseverliğin felsefenin ilk felsefesi olduğunu savunan başyapıt.",
+    "tags": ["Öteki", "Yüz", "Etik Sorumluluk", "Fenomenoloji"]
+  },
+  {
+    "id": "bib_kant_1795",
+    "author": "Kant, Immanuel",
+    "year": 1795,
+    "title": "Perpetual Peace: A Philosophical Sketch",
+    "original_title": "Zum ewigen Frieden. Ein philosophischer Entwurf",
+    "publisher": "Königsberg: Friedrich Nicolovius",
+    "category": "Siyaset Felsefesi & Hukuk",
+    "summary": "Evrensel misafirlik hakkını (Universal Hospitality) dünya cumhuriyeti ve kalıcı barışın üçüncü kesin maddesi olarak kurgular.",
+    "tags": ["Evrensel Barış", "Dünya Yurttaşlığı", "Uluslararası Hukuk", "Aydınlanma"]
+  },
+  {
+    "id": "bib_mauss_1925",
+    "author": "Mauss, Marcel",
+    "year": 1925,
+    "title": "The Gift: Forms and Functions of Exchange in Archaic Societies",
+    "original_title": "Essai sur le don. Forme et raison de l'échange dans les sociétés archaïques",
+    "publisher": "Routledge",
+    "isbn": "978-0415267496",
+    "category": "Antropoloji & Sosyoloji",
+    "summary": "Hediye verme, alma ve geri ödeme yükümlülüklerinin arkaik toplumlardaki sosyal sözleşme niteliğini inceleyen klasik çalışma.",
+    "tags": ["Hediye", "Potlaç", "Kula", "Karşılıklılık"]
+  },
+  {
+    "id": "bib_homeros_odyssey",
+    "author": "Homeros",
+    "year": -800,
+    "title": "Odysseia (Odyssey)",
+    "original_title": "Ὀδύσσεια",
+    "publisher": "Klasik Antikite Metinleri",
+    "category": "Klasik Edebiyat & Mitoloji",
+    "summary": "Antik Akdeniz dünyasında Xenia ilkesinin anlatıldığı, konukseverliğin ilahi ödül ve cezalarla dengelendiği kurucu destan.",
+    "tags": ["Xenia", "Zeus Xenios", "Antik Yunan", "Mitoloji"]
+  },
+  {
+    "id": "bib_ibn_haldun_1377",
+    "author": "İbn Haldun",
+    "year": 1377,
+    "title": "Mukaddime (Prolegomena)",
+    "original_title": "المقدمة (Kitāb al-ʻIbar)",
+    "publisher": "Kahire / Tunus El Yazmaları",
+    "category": "Tarih Felsefesi & Sosyoloji",
+    "summary": "Göçebe (bedevi) ve yerleşik (hadari) toplumların dinamiklerini, çöl ahlakında sığınma ve misafirperverliğin hayati rolünü çözümler.",
+    "tags": ["Asabiyet", "Bedevilik", "Çöl Kanunu", "Sosyoloji"]
+  },
+  {
+    "id": "bib_pitt_rivers_1977",
+    "author": "Pitt-Rivers, Julian",
+    "year": 1977,
+    "title": "The Fate of Shechem or the Politics of Sex: Essays in the Anthropology of the Mediterranean",
+    "publisher": "Cambridge University Press",
+    "isbn": "978-0521214278",
+    "category": "Antropoloji",
+    "summary": "'The Law of Hospitality' başlıklı ünlü makalesinde misafirperverliğin ritüel mekanizmalarını ve yabancının statüsünü inceler.",
+    "tags": ["Akdeniz Antropolojisi", "Misafir Hukuku", "Sosyal Roller"]
+  },
+  {
+    "id": "bib_benhabib_2004",
+    "author": "Benhabib, Seyla",
+    "year": 2004,
+    "title": "The Rights of Others: Aliens, Residents, and Citizens",
+    "publisher": "Cambridge University Press",
+    "isbn": "978-0521538602",
+    "category": "Siyaset Teorisi & Etik",
+    "summary": "Kant, Arendt ve çağdaş göç teorileri ışığında sınırların ve yabancının haklarının demokratik müzakeresini tartışır.",
+    "tags": ["Yabancı Hakları", "Vatandaşlık", "Sınırlar", "Mültecilik"]
+  }
+]

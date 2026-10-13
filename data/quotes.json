@@ -1,0 +1,202 @@
+[
+  {
+    "id": "q_homeros_01",
+    "author": "Homeros",
+    "source": "Odysseia, VI. Kitap",
+    "period": "Antik Çağ (MÖ 8. Yüzyıl)",
+    "culture": "Antik Yunan",
+    "theme": "Kutsal Yasa ve İlahi Himaye",
+    "text": "Yabancılara ve dilencilere karşı nazik olun; çünkü onlar kılık değiştirmiş tanrılar olabilirler. Zeus, misafirlerin ve sığınanların en büyük koruyucusudur; her yabancının arkasında tanrının gözü vardır.",
+    "context": "Antik Yunan'da Xenia geleneği uyarınca yabancılar Zeus Xenios'un koruması altındaydı. Bir yolcunun kimliği sorulmadan önce karnı doyurulur, yıkanması için sıcak su sunulurdu."
+  },
+  {
+    "id": "q_hesiodos_01",
+    "author": "Hesiodos",
+    "source": "İşler ve Günler",
+    "period": "Antik Çağ (MÖ 700 civarı)",
+    "culture": "Antik Yunan",
+    "theme": "Kozmik Denge ve Vicdan",
+    "text": "Misafire kapısını kapatan bir şehir, tanrıların gazabını üzerine çekmiş demektir. Çünkü yabancıyı doyurmayan ocak, kendi insanlığını da söndürür.",
+    "context": "Hesiodos, adaletin (Dike) ihlal edilmesinin toplumları felakete sürükleyeceğini, bunun ilk göstergesinin de misafire yapılan haksızlık olduğunu belirtir."
+  },
+  {
+    "id": "q_cicero_01",
+    "author": "Marcus Tullius Cicero",
+    "source": "De Officiis (Ödevler Üzerine)",
+    "period": "Klasik Antikite (MÖ 44)",
+    "culture": "Antik Roma",
+    "theme": "Evrensel Hukuk ve Hospitium",
+    "text": "Roma'nın en büyük gücü yalnızca lejyonları değil, dünyanın dört bir yanından gelen yabancıları masasında ortak kılan hukuku ve misafirperverlik anlayışıdır. Kapısını saygın yabancılara açık tutan ev, medeniyetin kalesidir.",
+    "context": "Roma'da Hospitium kurumu, yabancılarla kurulan kutsal ve hukuki himaye sözleşmesiydi."
+  },
+  {
+    "id": "q_konfucyus_01",
+    "author": "Konfüçyüs",
+    "source": "Analektler (Lunyu), 1.1",
+    "period": "Antik Doğu (MÖ 500 civarı)",
+    "culture": "Çin / Doğu Asya",
+    "theme": "Diğerkâmlık ve Dostluk",
+    "text": "Öğrenip de zaman zaman onu uygulamak bir sevinç değil midir? Uzak diyarlardan bir dostun, bir yolcunun gelmesi ne büyük mutluluktur! Başkaları seni tanımasa bile gücenmemek, erdemli insana yaraşmaz mı?",
+    "context": "Konfüçyüs, yabancıyı ve uzaktan gelen misafiri ağırlamayı ruhsal kemalatın ve Ren (insan sevgisi) erdeminin doruk noktası sayar."
+  },
+  {
+    "id": "q_upanishad_01",
+    "author": "Taittiriya Upanişad",
+    "source": "Şikşa Valli, 1.11.2",
+    "period": "Vedik Dönem (MÖ 6. Yüzyıl)",
+    "culture": "Hint / Vedik",
+    "theme": "Kutsallık ve Saygı",
+    "text": "Matridevo bhava, pitridevo bhava, acharyadevo bhava, atithi devo bhava: Annene bir tanrı gibi hürmet et, babana bir tanrı gibi hürmet et, öğretmenine bir tanrı gibi hürmet et ve evine gelen misafiri bir Tanrı bil.",
+    "context": "Atithi Devo Bhava ilkesi, randevusuz veya habersiz gelen konuğun Brahman'ın (mutlak hakikatin) bir tecellisi olarak hürmet görmesini buyurur."
+  },
+  {
+    "id": "q_havamal_01",
+    "author": "Hávamál (Yüksek Olanın Şiiri)",
+    "source": "Manzum Edda",
+    "period": "Erken Orta Çağ",
+    "culture": "İskandinav / Cermen",
+    "theme": "Hayatta Kalma ve Sıcak Ocak",
+    "text": "Soğuk dağlardan gelen yolcunun ateşe ihtiyacı vardır; dizleri titreyenin sıcacık bir ocağa, dağ yollarını aşanın temiz bir gömleğe ve samimi bir söze ihtiyacı vardır.",
+    "context": "Kuzey mitolojisinde baş tanrı Odin kılık değiştirip gezgin olarak evleri sınardı; bu yüzden yolcuya ateş ve yemek sunmak en yüksek erdemdi."
+  },
+  {
+    "id": "q_ibn_haldun_01",
+    "author": "İbn Haldun",
+    "source": "Mukaddime",
+    "period": "İslam Altın Çağı (14. Yüzyıl)",
+    "culture": "İslam / Mağrip",
+    "theme": "Asabiyet ve Çöl Ahlakı",
+    "text": "Bedevi çadırında misafir, üç gün boyunca kimliği sorulmaksızın ağırlanır; ona en iyi yemek ikram edilir, en korunaklı yer ayrılır. Çünkü çölün sert kanununda insanın insana sığınması, ölümle hayat arasındaki yegane eşiktir.",
+    "context": "İbn Haldun, çöl göçebelerinin hayatta kalabilmesinin temelinde misafirperverlik ve sığınma dokunulmazlığının yer aldığını gösterir."
+  },
+  {
+    "id": "q_mevlana_01",
+    "author": "Mevlânâ Celâleddîn-i Rûmî",
+    "source": "Mesnevî, V. Cilt (Misafirhane Şiiri)",
+    "period": "13. Yüzyıl",
+    "culture": "Anadolu İrfanı / Tasavvuf",
+    "theme": "Ruhani Konukseverlik",
+    "text": "İnsan kısmı bir misafirhanedir. Her sabah yeni bir konuk gelir. Bir sevinç, bir keder, bir anlık farkındalık... Beklenmedik bir misafir gibi gelirler. Hepsini güler yüzle karşıla ve ağırla! Çünkü her biri ötelerden bir rehber olarak gönderilmiştir.",
+    "context": "Mevlana, insanın iç dünyasını evrensel bir eşiğe, gelen her duyguyu ve yabancıyı ise ilahi bir hikmet taşıyıcısına benzetir."
+  },
+  {
+    "id": "q_yunus_01",
+    "author": "Yunus Emre",
+    "source": "Divan",
+    "period": "13.-14. Yüzyıl",
+    "culture": "Anadolu İrfanı",
+    "theme": "Gönül Yapmak ve Paylaşım",
+    "text": "Bir kez gönül yıktın ise, bu kıldığın namaz değil / Yetmiş iki millet dahi, elin yüzün yumaz değil... Elif okuduk ötürü, pazar eyledik götürü / Yaratılmışı hoş gördük, Yaratandan ötürü.",
+    "context": "Yunus Emre, kapıya gelen kim olursa olsun yaratıcının hatırına kucak açmayı, gönül yıkmamayı ve sofrayı bölüşmeyi ahlakın zirvesi sayar."
+  },
+  {
+    "id": "q_ahi_evran_01",
+    "author": "Ahi Evran ve Fütüvvetnameler",
+    "source": "Ahilik Ahlak Nizamnamesi",
+    "period": "13. Yüzyıl",
+    "culture": "Anadolu Selçuklu / Ahilik",
+    "theme": "Açık Kapı, Açık Sofra",
+    "text": "Ahinin üç şeyi açık olmalıdır: Eli açık olmalı (cömert olmalı), kapısı açık olmalı (misafirperver olmalı), sofrası açık olmalı (açları doyurmalı). Üç şeyi kapalı olmalıdır: Gözü kapalı olmalı (harama bakmamalı), dili kapalı olmalı (dedikodu etmemeli), beli kapalı olmalı (iffetli olmalı).",
+    "context": "Ahilik teşkilatı, şehirlere gelen yabancı yolcuları zaviye ve konukevlerinde günlerce bilabedel ağırlar ve korurdu."
+  },
+  {
+    "id": "q_kant_01",
+    "author": "Immanuel Kant",
+    "source": "Ebedi Barış İçin Felsefi Bir Taslak (Zum ewigen Frieden)",
+    "period": "Aydınlanma Çağı (1795)",
+    "culture": "Kıta Avrupası Felsefesi",
+    "theme": "Evrensel Misafirlik Hakkı (Hospitalität)",
+    "text": "Evrensel misafirlik hakkı (Hospitalität), bir yabancının başka bir ülkenin toprağına ayak bastığında düşmanca muamele görmeme hakkıdır. Yeryüzü küresel bir yüzeydir ve insanlar sonsuza dek birbirinden kaçamaz; bu nedenle ortak mülkiyet zemininde bir arada yaşamak zorundadırlar.",
+    "context": "Kant, konukseverliği bir hayırseverlik duygusu değil, evrensel bir insan hakkı (Weltbürgerrecht) olarak formüle etmiştir."
+  },
+  {
+    "id": "q_levinas_01",
+    "author": "Emmanuel Levinas",
+    "source": "Bütünlük ve Sonsuzluk (Totalité et Infini)",
+    "period": "20. Yüzyıl (1961)",
+    "culture": "Çağdaş Fransız / Fenomenoloji",
+    "theme": "Öteki'nin Yüzü ve Sorumluluk",
+    "text": "Öteki'nin yüzü bana görünür görünmez, benden bir talepte bulunur: 'Beni öldürme!' ve 'Beni doyur!' Etik, benliğimin kendi evinde efendi olmaktan çıkıp, kapıma gelen Öteki'ne yer açmasıyla başlar. Konukseverlik etiğin ilk adımıdır.",
+    "context": "Levinas'a göre benlik, yabancıya kapısını açtığı anda gerçek anlamda ahlaki bir özne haline gelir."
+  },
+  {
+    "id": "q_derrida_01",
+    "author": "Jacques Derrida",
+    "source": "Of Hospitality (De l'hospitalité)",
+    "period": "Çağdaş Felsefe (1997)",
+    "culture": "Kıta Avrupası / Dekonstrüksiyon",
+    "theme": "Koşulsuz Konukseverlik ve Hostipitality",
+    "text": "Saf ve koşulsuz konukseverlik, yeni gelenden kimliğini sormamayı, adını öğrenmeyi şart koşmamayı, hiçbir karşılık beklemeksizin ona yer açmayı gerektirir. Oysa yasalarımız koşulludur. Bu iki kutup arasındaki gerilim, insanlığın bitmeyen vicdan sınavıdır.",
+    "context": "Derrida, 'hospitality' (konukseverlik) ile 'hostility' (düşmanlık) arasındaki kırılgan hattı 'hostipitality' terimiyle çözümler."
+  },
+  {
+    "id": "q_camus_01",
+    "author": "Albert Camus",
+    "source": "Misafir (L'Hôte - Sürgün ve Krallık)",
+    "period": "20. Yüzyıl (1957)",
+    "culture": "Varoluşçuluk / Edebiyat",
+    "theme": "Yalnızlık ve Vicdan Sınavı",
+    "text": "Yabancıya kapısını kapatan insan, aslında kendi yalnızlığının hapishanesini inşa eder. Paylaşılan bir lokma ekmek, dünyadaki tüm taş duvarlardan daha güçlü bir barıştır.",
+    "context": "Camus, ıssız bir okulda Arap bir mahkuma kapısını açan, ona çay pişirip yatak seren Daru'nun vicdani ikilemini anlatır."
+  },
+  {
+    "id": "q_seneca_01",
+    "author": "Lucius Annaeus Seneca",
+    "source": "Ahlak Mektupları (Epistulae Morales ad Lucilium)",
+    "period": "Stoa Felsefesi (MS 65)",
+    "culture": "Antik Roma / Stoacılık",
+    "theme": "Cömertlik ve Sınırları Aşmak",
+    "text": "Cömertlik, yalnızca elinde fazlalıkta olanı vermek değildir; kendi sınırların ve imkanların zorlandığı andan itibaren bile paylaşabilme cesaretidir. Gerçek misafirperverlik budur.",
+    "context": "Seneca, Stoacı dünya vatandaşlığı (kozmopolitizm) gereği her yabancının aynı evrensel aklın parçası olduğunu savunur."
+  },
+  {
+    "id": "q_montaigne_01",
+    "author": "Michel de Montaigne",
+    "source": "Denemeler (Essais)",
+    "period": "Rönesans (1580)",
+    "culture": "Avrupa Hümanizmi",
+    "theme": "Gönül Genişliği ve Alçakgönüllülük",
+    "text": "İnsanın büyüklüğü mülküyle veya servetiyle değil; masasında hiç tanımadığı insanlara ayırdığı sandalyeyle, kalbinin genişliğiyle ve kapısını çalan yabancıya sunduğu güvenle ölçülür.",
+    "context": "Montaigne, barbar olarak nitelendirilen Yerli kabilelerin Avrupalılardan çok daha asil bir misafirperverliğe sahip olduğunu yazmıştır."
+  },
+  {
+    "id": "q_seattle_01",
+    "author": "Şef Seattle (Chief Seattle)",
+    "source": "Tarihi Mektup ve Konuşma Metinleri",
+    "period": "19. Yüzyıl (1854)",
+    "culture": "Kuzey Amerika Yerlileri (Suquamish / Duwamish)",
+    "theme": "Yeryüzü Ortak Bahçemizdir",
+    "text": "Evimiz, dünyada sığınacak yeri kalmayan herkesin sığınağıdır. Çünkü gökyüzünü nasıl satın alabilir ya da satabilirsiniz? Toprağın sıcaklığını nasıl sahiplenebilirsiniz? Yeryüzü tek bir kabilenin değil, hepimizin ortak bahçesidir.",
+    "context": "Kızılderili kabilelerinde mülkiyet bireysel bir tekel değil, canlıların ve yolcuların ortak istifadesine açık bir emanetti."
+  },
+  {
+    "id": "q_kelt_01",
+    "author": "Kadim Kelt Sözü",
+    "source": "İrlanda ve İskoç Kelt Sözlü Geleneği",
+    "period": "Antik & Orta Çağ",
+    "culture": "Kelt / İrlanda",
+    "theme": "Tuz-Ekmek ve Ruh Yoldaşlığı",
+    "text": "Tuzumuzu ve ekmeğimizi paylaşan insan, artık yabancımız değil; ruhumuzun ve kaderimizin bir parçasıdır. Kapıyı çalan yolcuyu içeri almayan ev, fırtınanın merhametine terk edilir.",
+    "context": "Kelt geleneğinde 'Brehon Yasaları' uyarınca, misafir ağırlamayı reddetmek yasal bir suç ve şerefsizlik sayılırdı."
+  },
+  {
+    "id": "q_zweig_01",
+    "author": "Stefan Zweig",
+    "source": "Dünün Dünyası (Die Welt von Gestern)",
+    "period": "20. Yüzyıl (1942)",
+    "culture": "Avrupa Edebiyatı",
+    "theme": "İnsani Bağlar ve Yersiz Yurtsuzluk",
+    "text": "Dünyayı gezdiğinizde anlarsınız ki; insanları birbirine bağlayan demiryolları, yollar veya telgraflar değil; yorgun bir ruhu ağırlayan sıcak bir ocak ve samimi bir kelimedir.",
+    "context": "Sürgünde vatanını yitiren Zweig, insanın nihai yurdunun başka bir insanın şefkatli kucağı ve konukseverliği olduğunu vurgulamıştır."
+  },
+  {
+    "id": "q_gandhi_01",
+    "author": "Mahatma Gandhi",
+    "source": "Ashram Günlükleri ve Yazıları",
+    "period": "20. Yüzyıl",
+    "culture": "Hint / Ahimsa",
+    "theme": "Tevazu ve Hizmet",
+    "text": "Gerçek konukseverlik, misafirin kendini senin evinde hissetmesini sağlamak değil; senin onun yanında bir misafir kadar alçakgönüllü ve mütevazı olabilmendir.",
+    "context": "Gandhi'nin şiddetsizlik (Ahimsa) felsefesi, her canlıya karşı mutlak hürmeti ve hizmetkar konukseverliğini şart koşar."
+  }
+]

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kutsal Eşik | İnsanlık Tarihinde Misafirperverlik ve Erdem Arkeolojisi</title>
+  <meta name="description" content="Yabancıdan Dosta: İnsanlık Tarihinde Misafirperverlik, Erdem ve Evrensel Ahlak Arkeolojisi. Açık kaynaklı sosyolojik, felsefi ve antropolojik araştırma portalı." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Üst Navigasyon Çubuğu -->
+  <header class="header">
+    <div class="nav-container">
+      <div class="logo-area" onclick="location.reload()">
+        <div class="logo-icon">⛩️</div>
+        <div class="logo-text">
+          <h1>KUTSAL EŞİK</h1>
+          <span>Dijital Beşeri Bilimler Portalı</span>
+        </div>
+      </div>
+
+      <nav>
+        <ul class="nav-links">
+          <li><button class="nav-btn active" data-tab="tab-overview">Genel Bakış</button></li>
+          <li><button class="nav-btn" data-tab="tab-concepts">Kavramlar</button></li>
+          <li><button class="nav-btn" data-tab="tab-timeline">Zaman Çizelgesi</button></li>
+          <li><button class="nav-btn" data-tab="tab-atlas">Medeniyetler Atlası</button></li>
+          <li><button class="nav-btn" data-tab="tab-reader">Okuma Odası</button></li>
+          <li><button class="nav-btn" data-tab="tab-bib">Kaynakça</button></li>
+          <li><button class="nav-btn" data-tab="tab-cli">CLI & Araçlar</button></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <button id="themeToggleBtn" class="theme-toggle-btn" title="Temayı Değiştir">🌙 Gece</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Ana İçerik -->
+  <main class="main-content">
+
+    <!-- Hero Bölümü -->
+    <section class="hero">
+      <span class="hero-tagline">Evrensel Ahlak & Antropoloji Arkeolojisi</span>
+      <h2>Yabancıdan Dosta: Kutsal Eşik</h2>
+      <p>
+        Kapıya gelen yabancıya kapı açmak sıradan bir ağırlama değil; evrenin kozmik dengesini koruyan, bencilliği aşan ve insanı insan kılan en kadim erdemdir. Antik Yunan’dan Anadolu irfanına, çöl bedevilerinden dijital müştereklere uzanan müşterek vicdan hafızası.
+      </p>
+
+      <!-- Bilgelik Pusulası (Quote Box) -->
+      <div class="wisdom-card">
+        <div id="wisdomText" class="wisdom-text">
+          Yükleniyor...
+        </div>
+        <div class="wisdom-author-bar">
+          <div class="wisdom-meta">
+            <span id="wisdomAuthor" class="wisdom-author">Düşünür</span>
+            <span id="wisdomSource" class="wisdom-source">Eser & Dönem</span>
+          </div>
+          <div class="wisdom-actions">
+            <button id="copyQuoteBtn" class="btn-icon" title="Alıntıyı Kopyala">📋 Kopyala</button>
+            <button id="nextQuoteBtn" class="btn-primary">🎲 Yeni Söz Çek</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Canlı Arama Çubuğu -->
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input
+          type="text"
+          id="searchInput"
+          class="search-input"
+          placeholder="Kavram, düşünür, medeniyet veya eser ara (ör. Xenia, Hospitium, Derrida, Bozkır)..."
+        />
+      </div>
+    </section>
+
+    <!-- SEKME 1: GENEL BAKIŞ & KAVRAMLAR -->
+    <section id="tab-overview" class="tab-content active">
+      <div class="section-header">
+        <h3>Temel Kavramlar ve Ahlak Kodları</h3>
+        <p>Dünya medeniyetlerinin kapı eşiğinde ürettiği felsefi, hukuki ve antropolojik kavramlar.</p>
+      </div>
+      <div id="conceptsGrid" class="cards-grid">
+        <!-- JS ile doldurulacak -->
+      </div>
+    </section>
+
+    <!-- SEKME 2: TÜM KAVRAMLAR LİSTESİ -->
+    <section id="tab-concepts" class="tab-content">
+      <div class="section-header">
+        <h3>Kavramlar Ansiklopedisi</h3>
+        <p>Xenia'dan Ren'e, Halil İbrahim Sofrası'ndan Hostipitality'ye kadar misafirperverliğin kurucu kavramları.</p>
+      </div>
+      <!-- conceptsGrid aynı yapıda yeniden kullanılır -->
+      <p style="text-align: center; color: var(--text-muted); margin-bottom: 2rem;">Aşağıdaki kartlara tıklayarak kavramların kökenini, okunuşunu ve kaynak metinlerini inceleyebilirsiniz.</p>
+    </section>
+
+    <!-- SEKME 3: ZAMAN ÇİZELGESİ -->
+    <section id="tab-timeline" class="tab-content">
+      <div class="section-header">
+        <h3>Zaman Çizelgesi: Eşiğin 4000 Yıllık Tarihi</h3>
+        <p>Sümer ve Babil kanunlarından başlayıp 21. yüzyıl dijital çağının açık kaynak sofralarına uzanan tarihsel kronoloji.</p>
+      </div>
+      <div id="timelineContainer" class="timeline-container">
+        <!-- JS ile doldurulacak -->
+      </div>
+    </section>
+
+    <!-- SEKME 4: MEDENİYETLER ATLASI -->
+    <section id="tab-atlas" class="tab-content">
+      <div class="section-header">
+        <h3>Medeniyetler Atlası</h3>
+        <p>Coğrafi determinizm, semboller, sofra ritüelleri ve hayatta kalma refleksleri.</p>
+      </div>
+      <div id="traditionsGrid" class="cards-grid">
+        <!-- JS ile doldurulacak -->
+      </div>
+    </section>
+
+    <!-- SEKME 5: OKUMA ODASI (MONOGRAFİLER) -->
+    <section id="tab-reader" class="tab-content">
+      <div class="section-header">
+        <h3>Akademik Okuma Odası</h3>
+        <p>Kutsal Eşik Araştırma Kolektifi tarafından hazırlanan 6 kapsamlı araştırma monografisi.</p>
+      </div>
+      <div class="reader-container">
+        <aside class="reader-sidebar">
+          <h4>Bölümler</h4>
+          <ul id="docList" class="doc-list">
+            <!-- JS ile doldurulacak -->
+          </ul>
+        </aside>
+        <article class="reader-article">
+          <div id="readerArticleBody" class="article-body">
+            <!-- JS ile doldurulacak -->
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- SEKME 6: KAYNAKÇA -->
+    <section id="tab-bib" class="tab-content">
+      <div class="section-header">
+        <h3>Akademik Kaynakça ve İleri Okuma</h3>
+        <p>Konukseverlik, antropoloji ve etik alanındaki temel kaynaklar.</p>
+        <div style="margin-top: 1rem;">
+          <button id="exportBibtexBtn" class="btn-primary">📋 Tümünü BibTeX Olarak Kopyala</button>
+        </div>
+      </div>
+      <div id="bibGrid" class="cards-grid">
+        <!-- JS ile doldurulacak -->
+      </div>
+    </section>
+
+    <!-- SEKME 7: CLI & GELİŞTİRİCİ KILAVUZU -->
+    <section id="tab-cli" class="tab-content">
+      <div class="section-header">
+        <h3>Komut Satırı (CLI) ve Açık Veri Kılavuzu</h3>
+        <p>Terminal meraklıları, araştırmacılar ve veri analistleri için Python CLI araçları.</p>
+      </div>
+      <div style="max-width: 800px; margin: 0 auto; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 14px; padding: 2rem;">
+        <h4 style="font-size: 1.3rem; margin-bottom: 1rem; color: var(--accent);">Python CLI ile Hızlı Kullanım</h4>
+        <pre style="background: var(--bg-secondary); padding: 1.2rem; border-radius: 8px; overflow-x: auto; font-family: monospace; font-size: 0.95rem; margin-bottom: 1.5rem;"><code># Kütüphane İstatistiklerini Görüntüle
+python -m kutsal_esik stats
+
+# Rastgele Bir Felsefi Alıntı Çek
+python -m kutsal_esik quote
+
+# Belirli Bir Tema veya Kültüre Göre Alıntı Filtrele
+python -m kutsal_esik quote --culture "Yunan"
+python -m kutsal_esik quote --theme "Cömertlik"
+
+# Tüm Koleksiyonda Arama Yap
+python -m kutsal_esik search "Derrida"
+
+# Kronolojiyi Terminalde Listele
+python -m kutsal_esik timeline
+
+# BibTeX Kaynakçasını Dışa Aktar
+python -m kutsal_esik bib --export
+
+# Yerel Web Sunucusunu Başlat
+python -m kutsal_esik serve --port 8000</code></pre>
+
+        <h4 style="font-size: 1.3rem; margin-bottom: 1rem; color: var(--accent);">Açık Veri Dosyaları (JSON)</h4>
+        <p style="color: var(--text-secondary); margin-bottom: 1rem;">
+          Bu repodaki tüm veriler makine tarafından okunabilir açık JSON formatında <code>data/</code> dizininde barındırılmaktadır:
+        </p>
+        <ul style="padding-left: 1.5rem; color: var(--text-secondary); line-height: 1.8;">
+          <li><code>data/quotes.json</code>: 20+ derin felsefi alıntı ve bağlamları</li>
+          <li><code>data/concepts.json</code>: 13 temel konukseverlik kavramı ve ilkeleri</li>
+          <li><code>data/timeline.json</code>: MÖ 2100'den günümüze tarihsel dönüm noktaları</li>
+          <li><code>data/traditions.json</code>: Kültür ve coğrafya bazlı gelenek atlası</li>
+          <li><code>data/bibliography.json</code>: Akademik kaynakça ve yayın künyeleri</li>
+        </ul>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal: Kavram Detayı -->
+  <div id="conceptModal" class="modal-overlay">
+    <div class="modal-card">
+      <button id="modalCloseBtn" class="modal-close" title="Kapat">&times;</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- Toast Bildirimi -->
+  <div id="toast" class="toast">Bildirim</div>
+
+  <!-- Alt Bilgi (Footer) -->
+  <footer class="footer">
+    <p class="footer-manifesto">
+      "Eşik bir barikat değil; insanlığın ortak vicdanına ve kardeşliğine açılan kutsal bir kapıdır."
+    </p>
+    <p>
+      <strong>Kutsal Eşik</strong> — Açık Kaynaklı Dijital Beşeri Bilimler & Felsefe Reposu. MIT Lisansı ile korunmaktadır.
+    </p>
+  </footer>
+
+  <!-- Betikler -->
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "c_xenia",
+    "name": "Xenia (Ξενία)",
+    "pronunciation": "kseh-NEE-ah",
+    "civilization": "Antik Yunan",
+    "era": "MÖ 1200 - Klasik Dönem",
+    "definition": "Ev sahibi (xenodochos) ile misafir (xenos) arasındaki ilahi ve ahlaki misafirperverlik yasası. Tanrı Zeus Xenios'un himayesinde işleyen bu ritüel, yabancının can ve mal emniyetini garanti altına alır.",
+    "core_principles": [
+      "Misafire önce sofra kurulur, yıkanması sağlanır; kimliği ve yolculuk amacı yemekten sonra sorulur.",
+      "Ayrılırken ev sahibi misafire kalıcı bir hatıra armağanı (xenion) verir.",
+      "Bu bağ nesilden nesile aktarılır; torunlar bile birbirini dost kabul eder."
+    ],
+    "key_sources": ["Homeros - Odysseia", "Hesiodos - İşler ve Günler", "Platon - Yasalar"]
+  },
+  {
+    "id": "c_hospitium",
+    "name": "Hospitium",
+    "pronunciation": "hos-PEE-tee-um",
+    "civilization": "Antik Roma",
+    "era": "Cumhuriyet ve İmparatorluk Dönemi",
+    "definition": "Roma hukukunda ve geleneğinde iki aile veya bir yabancı ile Roma vatandaşı arasında kurulan kutsal ve hukuki koruma sözleşmesi.",
+    "core_principles": [
+      "Tabula Hospitalis: İki taraf arasında anlaşmayı belgeleyen bronz veya fildişi tabletler kırılıp paylaştırılırdı.",
+      "Yabancı Roma'da mahkemeye düşerse, Roma vatandaşı olan koruyucusu (hospes) onu savunmakla yükümlüydü.",
+      "Dostluk ve dokunulmazlık Roma lejyonlarının ötesinde bir barış köprüsü işlevi görürdü."
+    ],
+    "key_sources": ["Cicero - De Officiis", "Livius - Roma Tarihi", "Aeneis - Vergilius"]
+  },
+  {
+    "id": "c_ren",
+    "name": "Ren (仁 - İnsan Sevgisi)",
+    "pronunciation": "jen",
+    "civilization": "Antik Çin / Konfüçyüsçülük",
+    "era": "MÖ 551 - Günümüz",
+    "definition": "Konfüçyüs ahlak felsefesinin kalbinde yer alan; şefkat, diğerkâmlık, başkasına hürmet ve evrensel insan sevgisi ilkesi.",
+    "core_principles": [
+      "'Kendine yapılmasını istemediğin şeyi başkasına yapma' (Shu ilkesi).",
+      "Uzaktan gelen bir yolcuyu ağırlamak ve ona çay ikram etmek, bireysel bencilliğin eritilmesidir.",
+      "Sosyal ahengin (He) temeli, kapıya gelen yabancıya hürmetle başlar."
+    ],
+    "key_sources": ["Konfüçyüs - Analektler (Lunyu)", "Mencius - Eserler"]
+  },
+  {
+    "id": "c_atithi_devo_bhava",
+    "name": "Atithi Devo Bhava (अतिथि देवो भव)",
+    "pronunciation": "uh-tee-tee deh-voh bhuh-vuh",
+    "civilization": "Hint / Vedik Geleneği",
+    "era": "MÖ 1000 - Günümüz",
+    "definition": "'Misafir Tanrıdır' anlamına gelen kutsal Sanskrit ilkesi. 'Atithi' kelimesi 'tarihi ve randevusu olmayan' anlamına gelir; yani habersiz gelen yolcu Tanrı'nın suretidir.",
+    "core_principles": [
+      "Ev sahibi kapısına gelen yolcunun ayaklarını yıkar, temiz giysi ve saf yemek sunar.",
+      "Misafir asla sorgulanmaz, sınıfı (varna) veya kastı ne olursa olsun ilahi bir varlık gibi hürmet görür.",
+      "Misafiri hoşnut etmeyen evin bereketi kaçar ve manevi lütuf geri çekilir."
+    ],
+    "key_sources": ["Taittiriya Upanişad", "Manusmriti", "Mahabharata"]
+  },
+  {
+    "id": "c_philoxenia",
+    "name": "Philoxenia (Φιλοξενία)",
+    "pronunciation": "fee-loh-kseh-NEE-ah",
+    "civilization": "Erken Hristiyanlık & Doğu Akdeniz",
+    "era": "MS 1. Yüzyıl - Günümüz",
+    "definition": "Kelime anlamıyla 'yabancıyı sevmek'. Yabancı düşmanlığı (ksenofobi) kavramının tarihsel ve ahlaki antitezi. İncil'de ve Doğu Ortodoks manastır geleneğinde temel bir erdemdir.",
+    "core_principles": [
+      "'Konukseverliği elden bırakmayın; çünkü bazıları bunu yaparak bilmeden melekleri ağırladılar' (İbraniler 13:2).",
+      "Yabancıya kapı açmak, Mesih'e kapı açmak olarak görülür.",
+      "Hastanelerin ve aşevlerinin kökeni olan 'Xenodochium' kurumlarının doğmasını sağlamıştır."
+    ],
+    "key_sources": ["Yeni Ahit (İbraniler & Matta 25)", "Aziz Basil Kuralları", "Aziz Benedikt Nizamnamesi"]
+  },
+  {
+    "id": "c_halil_ibrahim_sofrasi",
+    "name": "Halil İbrahim Sofrası ve Çadırı",
+    "pronunciation": "hah-leel eeb-rah-heem sof-rah-suh",
+    "civilization": "İbrahimi Gelenekler & Anadolu İrfanı",
+    "era": "MÖ 2. Binyıl - Günümüz",
+    "definition": "Hz. İbrahim'in dört bir yanı açık çadırından ilham alan, sofrasında misafir olmadan asla yemek yemediğine inanılan bereket, sınırsız cömertlik ve koşulsuz ikram sembolü.",
+    "core_principles": [
+      "Çadırın dört kapısı vardı; yolcu hangi yönden gelirse gelsin kapı aramak zorunda kalmasın diye.",
+      "Sofrada din, dil, ırk ve soy ayrımı gözetilmez; paylaşılan rızık paylaşıldıkça artar.",
+      "Anadolu halk kültüründe 'Halil İbrahim bereketi' kavramının felsefi kökenidir."
+    ],
+    "key_sources": ["Tekvin (Yaratılış 18)", "Kur'an-ı Kerim (Hicr & Zâriyât)", "Taberî Tarihi"]
+  },
+  {
+    "id": "c_ahilik",
+    "name": "Ahilik ve Fütüvvet Geleneği",
+    "pronunciation": "ah-hee-leek",
+    "civilization": "Anadolu Selçuklu ve Osmanlı",
+    "era": "13. - 19. Yüzyıl",
+    "definition": "Ahi Evran tarafından teşkilatlandırılan, esnaf dayanışması ile tasavvufi ahlakı birleştiren; şehir kapılarını ve zaviyelerini tüm yabancı yolculara karşılıksız açan sosyal kurum.",
+    "core_principles": [
+      "Açık kapı, açık el, açık sofra ilkesi: Ahi zaviyeleri şehre gelen seyyahları günlerce ağırlar, atlarını nallar, yıkar ve yol harçlığı verirdi.",
+      "İbn Battuta Seyahatnamesi'nde Anadolu Ahilerinin misafir kapma yarışını hayranlıkla anlatır.",
+      "Cömertlik ve kardeşlik (Ahi: Arapça 'kardeşim', Türkçe 'akı: cömert') ahlakın temeli sayılmıştır."
+    ],
+    "key_sources": ["Fütüvvetnameler", "İbn Battuta Seyahatnamesi", "Ahi Evran Risaleleri"]
+  },
+  {
+    "id": "c_dehalet",
+    "name": "Dehalet ve Sığınma Hakkı",
+    "pronunciation": "deh-hah-let",
+    "civilization": "Orta Asya Bozkır ve Kafkas Kültürü",
+    "era": "Kadim Dönem - 19. Yüzyıl",
+    "definition": "Bozkır ve göçebe töresinde 'aman dileyen' veya bir çadırın eşiğine adım atan sığınmacının can dokunulmazlığı elde etmesi ilkesi.",
+    "core_principles": [
+      "Kan davalısı dahi olsa, bir kişinin çadırına sığınan insan ev sahibinin namusu ve koruması altına girer.",
+      "Eşiğe basmak uğursuzluk sayılır; eşikten geçmek ise barış ve korunma talebidir.",
+      "Sığınmacıyı düşmanına teslim etmek töreye göre en ağır yüz kızartıcı suç ve şerefsizliktir."
+    ],
+    "key_sources": ["Oğuz Kağan Destanı", "Dede Korkut Kitabı", "Kafkas Âdet Hukuku (Adighe Xabze)"]
+  },
+  {
+    "id": "c_omotenashi",
+    "name": "Omotenashi (おもてなし)",
+    "pronunciation": "oh-moh-teh-nah-shee",
+    "civilization": "Japon Kültürü & Çay Seremonisi",
+    "era": "Muromachi Dönemi (14. Yüzyıl) - Günümüz",
+    "definition": "Karşılık beklemeden, gizli bir çıkar gütmeden, tüm kalbiyle misafirin rahatı ve huzuru için öngörülü bir zarafetle hizmet etme sanatı.",
+    "core_principles": [
+      "Ichigo Ichie (一期一会): 'Bir ömürde tek bir buluşma'. Her karşılaşma hayat boyunca yalnızca bir kez yaşanacakmış gibi kutsanmalıdır.",
+      "Çay ustası Sen no Rikyu'nun sade ve mütevazı çay evi eşiği (Nijiriguchi), samurayların kılıçlarını bırakıp eğilerek girdiği eşitlik alanıdır.",
+      "Gösterişten uzak, görünmez bir incelikle misafirin ihtiyaçlarını önceden sezmek."
+    ],
+    "key_sources": ["Sen no Rikyu - Çay Yolu Metinleri", "Kakuzo Okakura - Çay Kitabı"]
+  },
+  {
+    "id": "c_hostipitality",
+    "name": "Hostipitality (Koşulsuz ve Koşullu Konukseverlik)",
+    "pronunciation": "hos-tee-pee-tah-lee-tee",
+    "civilization": "Çağdaş Felsefe / Dekonstrüksiyon",
+    "era": "20. Yüzyıl Sonu (Jacques Derrida)",
+    "definition": "Fransız filozof Jacques Derrida'nın türettiği kavram; konukseverlik (hospitality) ile düşmanlık (hostility) arasındaki içsel gerilimi ve ev sahibinin iktidarını sorgulayan felsefi analiz.",
+    "core_principles": [
+      "Koşullu Konukseverlik: Misafirden adını, pasaportunu, dilini ve kurallara uymasını talep eden yasal çerçeve.",
+      "Koşulsuz Konukseverlik: 'Kapıyı çalana adını sormadan kapıyı ardına kadar açmak' ideali.",
+      "Ev sahibi kendi evinin efendisi kaldığı sürece konukseverlik mutlak olamaz; gerçek konukseverlik kendi egemenliğini askıya almayı gerektirir."
+    ],
+    "key_sources": ["Jacques Derrida - Of Hospitality", "Jacques Derrida - Adieu to Emmanuel Levinas"]
+  },
+  {
+    "id": "c_oteki_ve_yuz",
+    "name": "Öteki'nin Yüzü (Le Visage de l'Autre)",
+    "pronunciation": "luh vee-zahzh duh lohtr",
+    "civilization": "Çağdaş Etik ve Fenomenoloji",
+    "era": "20. Yüzyıl (Emmanuel Levinas)",
+    "definition": "Levinas felsefesinde ahlakın temeli; yabancının, yoksulun ve dulun yüzünde tecelli eden ve beni kendi bencilliğimden sarsarak sonsuz sorumluluğa çağıran deneyim.",
+    "core_principles": [
+      "Yüz, bana 'Beni öldürme!' emrini fısıldar; bu emir silahsız ve savunmasız yabancının çıplaklığından gelir.",
+      "Konukseverlik epistemolojik bir tanıma değil, etik bir kapı açmadır.",
+      "Öteki'ne karşı sorumluluğum sınırsızdır; ben onun rehinisiyim."
+    ],
+    "key_sources": ["Emmanuel Levinas - Totalité et Infini (1961)", "Ethique et Infini (1982)"]
+  },
+  {
+    "id": "c_potlac",
+    "name": "Potlaç (Potlatch)",
+    "pronunciation": "pot-lach",
+    "civilization": "Kuzeybatı Pasifik Yerlileri (Haida, Kwakiutl, Tlingit)",
+    "era": "Kadim Dönem - Günümüz",
+    "definition": "Bir kabile reisinin veya ailenin statüsünü mal biriktirerek değil, muazzam ziyafetler verip tüm servetini misafirlerine hediye ederek veya feda ederek kazandığı ritüel.",
+    "core_principles": [
+      "Zenginlik elinde tuttuğun şey değil, başkalarına dağıtabildiğin şeydir.",
+      "Marcel Mauss bu geleneği 'üçlü yükümlülük' olarak çözümler: Vermek, almak ve geri ödemek zorunluluğu.",
+      "Cömertlik toplumsal bağların ve barışın garantisidir."
+    ],
+    "key_sources": ["Marcel Mauss - Hediye (Essai sur le don)", "Franz Boas - Kwakiutl Ethnology"]
+  },
+  {
+    "id": "c_dijital_esik",
+    "name": "Dijital Eşik ve Açık Kaynak Cömertliği",
+    "pronunciation": "dee-zhee-tahl eh-sheek",
+    "civilization": "21. Yüzyıl Bilişim Çağı",
+    "era": "1980'lerden Günümüze",
+    "definition": "Fiziksel kapı eşiklerinin yerini alan dijital sınırların; özgür yazılım, açık bilim, Vikipedi ve açık kaynak felsefesiyle birer 'ortak müşterek' (commons) sofrasına dönüştürülmesi erdemi.",
+    "core_principles": [
+      "Bilgiyi, kaynak kodunu ve araştırmayı telif duvarlarının arkasına hapsetmeyip tüm insanlığa karşılıksız sunmak.",
+      "Dijital konukseverlik: Anonim bir yabancının katkısını kabul etmek ve emeği kolektif bir sevgiyle paylaşmak.",
+      "Eşiğin modern evrimi: Dışlayıcı algoritmik duvarlara karşı açık, erişilebilir ve kapsayıcı dijital alanlar inşa etmek."
+    ],
+    "key_sources": ["Richard Stallman - Free Software Definition", "Yochai Benkler - The Wealth of Networks"]
+  }
+]
